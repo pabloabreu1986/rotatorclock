@@ -30,6 +30,6 @@ npm run ios
 
 ## Vista previa
 
-![Gradiente en iOS](./media/Android_Clock.gif.gif)
+![Gradiente en iOS](./media/iOS_Clock.gif)
 
 Happy hacking !
