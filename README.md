@@ -1,7 +1,5 @@
 # Proyecto base usando [**Skia**](https://shopify.github.io/react-native-skia/) y [**React Native Reanimated**](https://docs.swmansion.com/react-native-reanimated/) en [**React Native**](https://reactnative.dev).
 
-`Con cada click renderizamos un nuevo gradiente animado.`
-
 ## Configuraciones iniciales
 
 **Tener listo**: [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) antes de continuar.
